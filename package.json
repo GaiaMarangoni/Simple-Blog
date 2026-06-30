@@ -1,0 +1,12 @@
+{
+  "name": "simple-blog",
+  "version": "1.0.0",
+  "description": "A simple picture + text blog with admin posting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
